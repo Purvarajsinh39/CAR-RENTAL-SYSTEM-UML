@@ -48,7 +48,7 @@ The project contains the following UML diagrams:
 - Practice object-oriented design principles.
 - Understand system workflows through modeling.
 
-## 💑 Notes
+## 📝 Notes
 
 - UML standards were followed for better clarity.
 - Diagrams can be exported into PDF or PNG formats for documentation or presentations.
