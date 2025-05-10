@@ -9,14 +9,14 @@ The diagrams were developed using **draw.io** (`.drawio` format) for easy viewin
 
 ## 🛠️ Tools Used
 
-- [**draw.io**](https://app.diagrams.net/) (diagrams.net) — for creating and editing UML diagrams.
+- [**draw.io**](https://app.diagrams.net/) — for creating and editing UML diagrams.
 
 ## 📋 Project Structure
 
 The project contains the following UML diagrams:
 
-| Diagram Type        | Description |
-|---------------------|-------------|
+| Diagram Type         | Description |
+|----------------------|-------------|
 | **Use Case Diagram** | Shows how customers and admins interact with the car rental system. |
 | **Class Diagram**    | Defines the system's main classes like Car, Customer, Booking, Payment, etc. |
 | **Activity Diagram** | Represents the workflow of renting a car from browsing to booking. |
@@ -27,6 +27,38 @@ The project contains the following UML diagrams:
 
 - `Project UML.drawio` — Main file containing all diagrams.
 
+## 📷 UML Diagrams
+
+### 1. Use Case Diagram
+
+![Use Case Diagram](images/use_case_diagram.png)
+
+---
+
+### 2. Class Diagram
+
+![Class Diagram](images/class_diagram.png)
+
+---
+
+### 3. Activity Diagram
+
+![Activity Diagram](images/activity_diagram.png)
+
+---
+
+### 4. Sequence Diagram
+
+![Sequence Diagram](images/sequence_diagram.png)
+
+---
+
+### 5. ER Diagram *(Optional)*
+
+![ER Diagram](images/er_diagram.png)
+
+---
+
 ## 🧑‍💻 How to Open the File
 
 1. Visit [draw.io](https://app.diagrams.net/).
@@ -36,21 +68,20 @@ The project contains the following UML diagrams:
 
 ## ✨ Key Features Modeled
 
-- Customer Registration and Login
-- Car Browsing and Selection
-- Booking Process
-- Payment Handling
+- Customer Registration and Login  
+- Car Browsing and Selection  
+- Booking Process  
+- Payment Handling  
 - Admin Management (Add/Edit Cars, Manage Bookings)
 
 ## 🎯 Objective
 
-- Visualize the working of a Car Rental System using UML.
-- Practice object-oriented design principles.
+- Visualize the working of a Car Rental System using UML.  
+- Practice object-oriented design principles.  
 - Understand system workflows through modeling.
 
 ## 📝 Notes
 
-- UML standards were followed for better clarity.
-- Diagrams can be exported into PDF or PNG formats for documentation or presentations.
+- UML standards were followed for better clarity.  
+- Diagrams can be exported into PDF or PNG formats for documentation or presentations.  
 - Project is beginner-friendly and easy to customize for more advanced features.
-
